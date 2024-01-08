@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class No2753 {
     public static void main(String[] args) {
-        int year = 0;
+        int year;
         Scanner sc = new Scanner(System.in);
         year = sc.nextInt();
 

@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class No1008 {
     public static void main(String[] args) {
-        double A = 0;
-        double B = 0;
+        double A;
+        double B;
         Scanner sc = new Scanner(System.in);
         A = sc.nextDouble();
         B = sc.nextDouble();
