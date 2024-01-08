@@ -6,7 +6,7 @@ public class No1546 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt();
-        int y[] = new int[x];
+        int[] y = new int[x];
         double max = 0;
         double sum = 0;
 

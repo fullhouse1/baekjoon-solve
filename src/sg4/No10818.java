@@ -6,7 +6,7 @@ public class No10818 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt();
-        int b[] = new int[x];
+        int[] b = new int[x];
         int max = -1000000;
         int min = 1000000;
 

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class No9498 {
     public static void main(String[] args) {
-        int score = 0;
+        int score;
         Scanner sc = new Scanner(System.in);
         score = sc.nextInt();
 

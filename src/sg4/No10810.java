@@ -7,8 +7,8 @@ public class No10810 {
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt();
         int y = sc.nextInt();
-        int z[] = new int[x];
-        int a, b, c = 0;
+        int[] z = new int[x];
+        int a, b, c;
 
         for (int i = 0; i < y; i++) {
             a = sc.nextInt();
