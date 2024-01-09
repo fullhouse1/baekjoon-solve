@@ -23,6 +23,5 @@ public class No10798 {
                 System.out.print(charArray[j][i]);
             }
         }
-
     }
 }
